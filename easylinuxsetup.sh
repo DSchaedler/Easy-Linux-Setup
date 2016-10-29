@@ -41,6 +41,7 @@ while true; do
             echo "Easy Linux Setup"
             echo "By: Dominic Schaedler - 2016"
             echo "Last Updated - 28 October 2016"
+            echo "Source available at https://github.com/DrakeShady/Easy-Linux-Setup"
             echo "This script is provided as-is, with no garuntee of functionality. Use at your own risk."
             echo ""
             echo "This script is designed to make setting up a new linux system as easy as possible, provided you know what you want to add. It will install packages with as little user interaction and output as possible."
